@@ -26,18 +26,18 @@ The project repository is organized as follows:
 
 
 # Following are steps for Data Analysis and Modeling
-Import Packages
-Import CSV file
-Check Total Records in CSV file
-Check DataType of CSV file
-Print first 10 and last 10 recods from DataSet
-Total 10 Country wise count with graph
-Total Pack Price for Top 15 Countries with graph
-First Line Designation Wise Count with graph
-Shipment Mode percentage wise Pie Chart
-Unquie Manufacturing Site Names
-Shipment Mode, Min and Mean value for Air
-Top 10 Manufacturing Site for all Shipment Mode with Graph
-Top 10 Manufacturing Site for Air Shipment Mode with Graph
-Pack Price analysis using Distributions and Plot Graph
-Shipment Mode and Pack Price in Bar Plot Graph
+1. Import Packages
+2. Import CSV file
+3. Check Total Records in the CSV file
+4. Check the DataType of the CSV file
+5. Print the first 10 and last 10 records from DataSet
+6. Total 10 Countr wise counts with graph
+7. Total Pack Price for Top 15 Countries with graph
+8. First Line Designation Wise Count with graph
+9. Shipment Mode percentage wise Pie Chart
+10. Unquie Manufacturing Site Names
+11. Shipment Mode, Min, and Mean value for Air
+12. Top 10 Manufacturing Sites for all Shipment Mode with Graph
+13. Top 10 Manufacturing Sites for Air Shipment Mode with Graph
+14. Pack Price analysis using Distributions and Plot Graph
+15. Shipment Mode and Pack Price in Bar Plot Graph
